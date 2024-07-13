@@ -10,6 +10,11 @@ const Home = () => {
       <Link href="/three-d-scene" >
         Go to 3D Scene
       </Link>
+      <h1 className='center'>Welcome to My 3D Web Application</h1>
+      <p>Explore our 3D scene and embrace the theme:</p>
+      <Link href="/three-d-scene16" >
+        Go to 3D Scene
+      </Link>
     </div>
   );
 };
