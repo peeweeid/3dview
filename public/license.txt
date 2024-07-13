@@ -1,0 +1,11 @@
+Model Information:
+* title:	Card 1 7
+* source:	https://sketchfab.com/3d-models/card-1-7-2d6a416c9200427492b91479be386276
+* author:	saw product (https://sketchfab.com/sawproduct)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Card 1 7" (https://sketchfab.com/3d-models/card-1-7-2d6a416c9200427492b91479be386276) by saw product (https://sketchfab.com/sawproduct) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,42 @@
+/* styles/ThreeDScene.module.css */
+
+.container {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    z-index: 1;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  
+  @media (max-width: 600px) {
+    .container {
+      flex-direction: column;
+      bottom: 10px;
+      gap: 10px;
+    }
+  
+    .button {
+      padding: 8px 16px;
+      font-size: 14px;
+    }
+  }
+  
