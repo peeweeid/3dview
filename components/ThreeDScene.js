@@ -87,8 +87,8 @@ const ThreeDScene = () => {
   const [isPlaying, setIsPlaying] = useState(false);
   const [showLightbox, setShowLightbox] = useState(false);
   const images = [
-    'https://w0.peakpx.com/wallpaper/356/519/HD-wallpaper-anime-sky-portrait-display.jpg',
-    'https://c4.wallpaperflare.com/wallpaper/367/257/149/anime-anime-girls-digital-art-artwork-2d-hd-wallpaper-preview.jpg',
+    'https://sawimage.carrd.co/assets/images/gallery01/e02d0608.jpg',
+    'https://sawimage.carrd.co/assets/images/gallery01/2eb3cbe5.jpg',
     // Masukkan URL gambar lainnya di sini
   ];
 
